@@ -3,17 +3,25 @@ body {
 }
 
 h1 {
-    color: #14678B;
+    color: #5DADE2;
 }
 
 h2 {
-    color: #14678B;
+    color: #5DADE2;
 }
 
 h3 {
-    color: #14678B;
+    color: #5DADE2;
 }
 
 h4 {
-    color: #14678B;
+    color: #5DADE2;
+}
+
+p {
+    color: white
+}
+
+.center {
+    text-align: center;
 }
